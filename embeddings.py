@@ -12,4 +12,5 @@ response = client.embeddings.create(
     model="text-embedding-3-small"
 )
 
-print("Vector Embeddings", response.data[0].embedding)
+print(response)
+# print("Vector Embeddings", response.data[0].embedding)

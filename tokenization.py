@@ -1,6 +1,6 @@
 import tiktoken
 
-encoder = tiktoken.encoding_for_model('gpt-4o')
+encoder = tiktoken.encoding_for_model('gpt-4o-mini')
 
 print("Vocab size", encoder.n_vocab)
 
