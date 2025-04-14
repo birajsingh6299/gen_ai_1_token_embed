@@ -16,6 +16,8 @@ Lecture Eraser Link: https://app.eraser.io/workspace/7gwrRuUm9lCAugulZEtL
 
 ### Lecture 3
 
+Lecture Eraser link - https://app.eraser.io/workspace/xaA8WBpMpYV5Q3EMPEjT
+
 Pipeline v1 - https://colab.research.google.com/drive/1C9yJuXSlcetvdZJtQU5vGSeIu8Tq5BTh?usp=sharing#scrollTo=2LLxu8ju08fb
 
 Pipeline v2 - https://colab.research.google.com/drive/12dlH83lI53mhmYigQwPGwPBWdxZIsQgN#scrollTo=ELT4BVyzo8CL
