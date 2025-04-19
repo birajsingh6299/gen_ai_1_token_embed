@@ -21,3 +21,17 @@ Lecture Eraser link - https://app.eraser.io/workspace/xaA8WBpMpYV5Q3EMPEjT
 Pipeline v1 - https://colab.research.google.com/drive/1C9yJuXSlcetvdZJtQU5vGSeIu8Tq5BTh?usp=sharing#scrollTo=2LLxu8ju08fb
 
 Pipeline v2 - https://colab.research.google.com/drive/12dlH83lI53mhmYigQwPGwPBWdxZIsQgN#scrollTo=ELT4BVyzo8CL
+
+### Lecture 4
+
+Lecture Eraser Link - https://app.eraser.io/workspace/zQvhZaLaPsKqTbq6WngD
+
+Fine Tuning - https://colab.research.google.com/drive/1XDPhdzxtYgk4ybwU-kUFrsJoNZt9r1v0?usp=sharing
+
+### Lecture 5
+
+Lecture Eraser Link - https://app.eraser.io/workspace/zjUq4ETunws45jthYzRh
+
+### Lecture 6
+
+Lecture Eraser Link - https://app.eraser.io/workspace/W1ItJUWco1xYkXrVLsMR
